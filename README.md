@@ -1,4 +1,4 @@
-# Product and customer-specific coupon assignment using Machine Learning
+# Product and customer-specific coupon assignment using Machine Learning (Winter 2020/21)
 
 In order to increase per-coupon revenue, targeted allocation of coupons based on individual customer preferences has proven to be fairly effective in real world settings (Gabel & Timoshenko, 2020).
 
